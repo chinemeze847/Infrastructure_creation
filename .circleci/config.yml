@@ -52,4 +52,4 @@ jobs:
 workflows:
   smoke-test:
     jobs:
-      - smoke_test:
+      - smoke_test
